@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-09-27T23:25:09+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2023-09-28T14:42:57+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///C:/Users/elenm/OneDrive/Documents/Вышка/Лингданные/Исследование/Lipetsk_ imp1986_life.mp4"
             MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Lipetsk_ imp1986_life.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7c8e5996-9e38-4678-8d0f-773ed657eea4</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">28</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">30</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="276610"/>
@@ -60,12 +60,16 @@
         <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="325560"/>
         <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="325569"/>
         <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="327380"/>
-        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="330089"/>
-        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="330089"/>
-        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="335029"/>
-        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="335029"/>
-        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="337880"/>
-        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="338029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="330080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="330080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="330089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="330089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="335020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="335020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="335029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="335029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="337880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="338029"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
     <TIER ANNOTATOR="irinaorlovahse" DEFAULT_LOCALE="ru"
@@ -152,19 +156,19 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
-                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts51">
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts53">
                 <ANNOTATION_VALUE>∙∙∙∙ И-и, естественно, дочь, которой, там, восемнадцать /-ле-ет</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
-                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts53">
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts57">
                 <ANNOTATION_VALUE>и которая хочет, эээ, ∙∙ определённым образом выглядеть на /\отдыхе-е</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
-                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts60">
                 <ANNOTATION_VALUE>была несколько ∙∙ {СМЕХ} ∙∙ \/сконфужена {СМЕХ}</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -263,8 +267,20 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
-                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts55">
-                <ANNOTATION_VALUE>и естественно дочь которой там восемнадцать лет и которая хочет эээ/ определённым образом выглядеть на отдыхе-е была несколько/ #смеётся# сконфужена #смеётся#</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>и естественно дочь которой там восемнадцать лет</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>и которая хочет эээ/ определённым образом выглядеть на отдыхе-е</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>была несколько/ #смеётся# сконфужена #смеётся#</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
